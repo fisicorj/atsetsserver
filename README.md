@@ -27,7 +27,7 @@ chmod +x install_ats_ets_server.sh
 ### 3. Run the Installer
 
 ```bash
-./install_ats_ets_server.sh
+sudo ./install_ats_ets_server.sh
 ```
 
 You will be prompted to choose:
